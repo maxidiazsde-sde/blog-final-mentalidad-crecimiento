@@ -3,7 +3,7 @@
 
 ## Contexto
 
-Durante la materia Data Analytics tuve que aprender normalización de bases de datos.
+Durante la materia Data Analytics tuve que aprender normalización de bases de datos.El profesor me explicó cómo funcionan las relaciones entre tablas y eso me ayudó muchísimo.
 
 ## Problema
 
