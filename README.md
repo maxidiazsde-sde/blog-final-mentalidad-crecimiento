@@ -1,5 +1,5 @@
 # blog-final-mentalidad-crecimiento
-# Mi experiencia aprendiendo Normalización de Datos
+# Cómo aprendí Normalización de Datos en Data Analytics
 
 ## Contexto
 
